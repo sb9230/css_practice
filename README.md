@@ -12,4 +12,4 @@ day 2
 
 day 3
 
- html:4 layout, html:5 layout
+ html:4 layout, html:5 layout, 반응형 layout
