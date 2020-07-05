@@ -9,3 +9,7 @@ day 2
   
   web-font 사용, inline, block 차이 
   box-model, box-sizing, margin-collapsing
+
+day 3
+
+ html:4 layout, html:5 layout
